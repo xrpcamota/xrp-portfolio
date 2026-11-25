@@ -110,7 +110,6 @@ a { color: inherit; text-decoration: none; }
 
 /* Balanced placement along the orbital rings */
 .logo-autocad { top: 43%; left: -4%; animation: tagFloat 5.2s ease-in-out infinite; }
-/* Balanced placement along the orbital rings */
 .logo-autocad { top: 43%; left: -4%; animation: tagFloat 5.2s ease-in-out infinite; padding: 0; overflow: hidden; }
 .logo-autocad img { width: 100%; height: 100%; object-fit: cover; border-radius: 5px; }
 .logo-powerdb { top: 46%; right: -4%; animation: tagFloat 5.8s ease-in-out infinite reverse; }
