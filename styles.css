@@ -115,7 +115,7 @@ a { color: inherit; text-decoration: none; }
 .logo-powerdb { top: 46%; right: -4%; animation: tagFloat 5.8s ease-in-out infinite reverse; }
 .logo-powerdb {  top: 46%;  right: -4%;  animation: tagFloat 5.8s ease-in-out infinite reverse;  padding: 0;  overflow: hidden;}
 .logo-powerdb img {  width: 100%;  height: 100%;  object-fit: cover;  border-radius: 5px;}
-.logo-ltu {  top: 28%;  right: -4%;  animation: tagFloat 5.1s ease-in-out infinite;  padding: 0;  overflow: hidden;}
+.logo-ltu {  top: 28%;  right: 8%;  animation: tagFloat 5.1s ease-in-out infinite;  padding: 0;  overflow: hidden;}
 .logo-ltu img {  width: 100%;  height: 100%;  object-fit: cover;  border-radius: 5px;}
 .logo-ekip    { top: 8%;  left: 42%; animation: tagFloat 4.8s ease-in-out infinite; }
 .logo-ekip    { top: 4%;left: 34%; animation: tagFloat 4.8s ease-in-out infinite; padding: 0; overflow: hidden;}
