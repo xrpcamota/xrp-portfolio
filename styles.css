@@ -122,6 +122,8 @@ a { color: inherit; text-decoration: none; }
 .logo-pxpm {  bottom: 24%;  left: 4%;  animation: tagFloat 5.5s ease-in-out infinite;  padding: 0;  overflow: hidden;}
 .logo-pxpm img {  width: 100%;  height: 100%;  object-fit: cover;  border-radius: 5px;}
 .logo-ecostruxure { bottom: 32%; right: 4%; animation: tagFloat 5.6s ease-in-out infinite; }
+.logo-ecostruxure {  bottom: 24%;  right: 4%;  animation: tagFloat 5.4s ease-in-out infinite reverse;  padding: 0;  overflow: hidden;}
+.logo-ecostruxure img {  width: 100%;  height: 100%;  object-fit: cover;  border-radius: 5px; }
 .tag-icon { color: var(--teal); font-size: 1rem; margin-right: 7px; }
 .tag-pulse { width: 6px; height: 6px; margin-right: 8px; }
 .portrait-index { position: absolute; right: 0; bottom: 2%; font-family: var(--mono); font-size: .58rem; color: #647571; letter-spacing: .12em; }
@@ -237,6 +239,7 @@ a { color: inherit; text-decoration: none; }
   .logo-ekip img { width: 100%; height: 100%; }
   .logo-pxpm img { width: 100%; height: 100%; }
   .logo-powerdb img { width: 100%; height: 100%; }
+  .logo-ecostruxure img { width: 100%; height: 100%; }
   .hero-section { padding: 110px 0 65px; }
   .hero-section { padding: 110px 0 65px; }
   .hero-section { padding: 110px 0 65px; }
