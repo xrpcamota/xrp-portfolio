@@ -116,7 +116,7 @@ a { color: inherit; text-decoration: none; }
 .logo-ekip    { top: 8%;  left: 42%; animation: tagFloat 4.8s ease-in-out infinite; }
 .logo-ekip    { top: 4%;left: 34%; animation: tagFloat 4.8s ease-in-out infinite; padding: 0; overflow: hidden;}
 .logo-ekip img {  width: 100%;  height: 100%;  object-fit: cover;  border-radius: 5px;}
-.logo-pxpm    { bottom: 32%; left: 4%; animation: tagFloat 6.2s ease-in-out infinite reverse; }
+.logo-pxpm    { bottom: 25%; left: 20%; animation: tagFloat 6.2s ease-in-out infinite reverse; }
 .logo-pxpm {  bottom: 24%;  left: 4%;  animation: tagFloat 5.5s ease-in-out infinite;  padding: 0;  overflow: hidden;}
 .logo-pxpm img {  width: 100%;  height: 100%;  object-fit: cover;  border-radius: 5px;}
 .logo-ecostruxure { bottom: 32%; right: 4%; animation: tagFloat 5.6s ease-in-out infinite; }
